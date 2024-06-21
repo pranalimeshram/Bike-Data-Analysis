@@ -1,4 +1,4 @@
-# Bike-Data-Analysis
+#  Bike-Data-Analysis
 # Project Overview
 This project involves analyzing a dataset of individuals to understand the factors influencing bike purchases. The dataset contains various attributes such as demographic information, income, education, occupation, and more. The analysis aims to uncover insights into the profiles of bike buyers and non-buyers.
 
@@ -41,10 +41,9 @@ The analysis involves:
 * Developing a dashboard to visualize the findings.
 
  # How to Use
-     ## Clone the repository:
-git clone https://github.com/yourusername/bike-buyers-analysis.git
-Open the Excel file to explore the raw data, pivot table, and dashboard.
-Follow the analysis steps to replicate the findings or extend the analysis.
+* Clone the repository:
+* Open the Excel file to explore the raw data, pivot table, and dashboard.
+* Follow the analysis steps to replicate the findings or extend the analysis.
 
 # Conclusion
 This project provides insights into the factors influencing bike purchases among different demographic groups. It highlights the significance of attributes such as income, marital status, and gender in predicting bike purchase behavior.
